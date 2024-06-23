@@ -19,7 +19,7 @@ To use the packet sniffer:
 1. Ensure you have sufficient privileges to capture packets (often requires running as root/administrator).
 2. Run the script using Python 3.x:
    ```bash
-   python3 Packet-Sniffer.py
+   sudo python3 Packet-Sniffer.py
 3. Monitor the output as packets are captured and processed.
 
 ## Understanding Ethernet Frames
